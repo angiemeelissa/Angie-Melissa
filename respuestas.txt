@@ -1,0 +1,21 @@
+ANGIE MELISSA SANTIAGO RODRIGUEZ
+1555123
+
+¿Qué es GIT?
+Git es un sistema de control de versiones distribuido, lo que significa que un clon local de un proyecto es un repositorio de control de versiones completo
+
+¿Qué es un pull request?
+Las pull request son una característica que facilita la colaboración entre desarrolladores ya que este va dejando historial de los cambios y es mas facil debatir dentro de todos estos mismos
+
+¿Qué es un commit?
+Este comando es una manera de guardar los cambios de una manera permanente realizados en el proyecto
+
+¿GIT y GitHub es lo mismo? Explique
+GIT es un sistema de Control de Versiones de VCS, que facilita el registro, el historial y la comparicion entre archivos y sus diferentes versiones, mientra tanto GitHub es un sitio web donde los usuarios pueden alojar diferentes repositorios
+
+
+¿Qué es scrum? 
+Es un manera de gestión de proyectos de metodologia por afinidades que ayuda a los equipos de desarrollo a estructurar y gestionar el trabajo de una manera mas facil y eficiente
+
+¿Para qué sirve una metodología ágil de desarrollo?
+La metodología ágil es un conjunto de técnicas aplicadas en ciclos cortos de trabajo, cuyo propósito es hacer más eficiente el proceso de implementación del proyecto. Por lo tanto, puede continuar después de  cada etapa e ignorar la necesidad de esperar  el final del proyecto.
